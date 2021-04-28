@@ -4,7 +4,7 @@ import wikipedia
 import PySimpleGUI as sg
 
 #API key
-client = wolframalpha.Client("9WK853-HWY9X35EWU")
+client = wolframalpha.Client("key")
 
 #pysimplegui basic example code
 sg.theme('DarkPurple')
